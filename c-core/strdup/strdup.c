@@ -1,6 +1,6 @@
 #include <stdlib.h>
 
-char *strdup(const char *src)
+char *gm_strdup(const char *src)
 {
 
 	int i;

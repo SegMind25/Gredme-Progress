@@ -1,9 +1,9 @@
 # strdup
 
-Allocate and return a heap copy of a null-terminated string
+Allocate and return a heap copy of a null\-terminated string
 
 ```c
-char *strdup(const char *src)
+char *gm_strdup(const char *src)
 ```
 
 **Difficulty:** 3/5

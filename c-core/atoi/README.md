@@ -1,9 +1,9 @@
 # atoi
 
-Parse a null-terminated string and return its integer value
+Parse a null\-terminated string and return its integer value
 
 ```c
-int atoi(const char *str)
+int gm_atoi(const char *str)
 ```
 
 **Difficulty:** 3/5

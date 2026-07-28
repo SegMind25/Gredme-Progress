@@ -1,4 +1,4 @@
-int	isalpha(int c)
+int	gm_isalpha(int c)
 {
 
 	char str = (unsigned char)c;
