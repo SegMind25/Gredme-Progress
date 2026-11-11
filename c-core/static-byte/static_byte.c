@@ -1,9 +1,10 @@
 #include <unistd.h>
 
-int	main(int argc, char **argv)
+int	main(int ac, char **av)
 {
-	(void)argc;
-	(void)argv;
+
+	(void)av;
+	(void)ac;
 	write(1, "e\n", 2);
 	return (0);
 }
